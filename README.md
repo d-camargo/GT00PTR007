@@ -35,3 +35,5 @@ Plano Didático - 1/2022
 - [Ministério da Infraestrutura](https://www.gov.br/infraestrutura/pt-br/assuntos/dados-de-transportes/bit/bitmodosmapas)
 - [EPL-Geo](https://geo.epl.gov.br/portal/apps/sites/#/geo-ontl/pages/download)
 - [EPL-Datasets](https://ontl.epl.gov.br/explore-dados/consultas-a-base-de-dados/)
+- [EPL-PNL 2035 - shapefiles](https://ontl.epl.gov.br/planejamento-pnl-2035/shapefiles/)
+- [EPL-PNL 2035 - Matrizes O/D](https://ontl.epl.gov.br/planejamento-pnl-2035/matrizes-o-d/)
