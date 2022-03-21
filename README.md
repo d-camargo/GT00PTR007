@@ -37,3 +37,6 @@ Plano Didático - 1/2022
 - [EPL-Datasets](https://ontl.epl.gov.br/explore-dados/consultas-a-base-de-dados/)
 - [EPL-PNL 2035 - shapefiles](https://ontl.epl.gov.br/planejamento-pnl-2035/shapefiles/)
 - [EPL-PNL 2035 - Matrizes O/D](https://ontl.epl.gov.br/planejamento-pnl-2035/matrizes-o-d/)
+
+#### Telegram
+[Link para o grupo do Telegram da disciplina](https://t.me/+gFyj9CYdA1Q2MTMx)
